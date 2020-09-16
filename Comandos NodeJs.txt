@@ -1,0 +1,7 @@
+cd --> arrastro carpeta
+npm init
+npm run start (start es el nombre del script)
+
+ctrl+c = detener el servidor
+
+npm install --save pug
